@@ -1,4 +1,4 @@
-#!/usr/bin/env awk -f
+#!/usr/bin/awk -f
 
 BEGIN {
     redo_log_size = 4 * 1024 * 1024 * 1024
